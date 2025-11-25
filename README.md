@@ -2,6 +2,7 @@
 
 ## 
 数学建模竞赛主要分为：评价类、预测类、优化类
+
 <img width="605" height="684" alt="image" src="https://github.com/user-attachments/assets/95182ef9-7af9-47d5-ae45-ba84f13f7d6b" />
 
 ### 评价类赛题
